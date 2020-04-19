@@ -1,6 +1,7 @@
 <div>
   <img src="./public/images/svg/nodejs.svg" height=100>
   <img src="./public/images/svg/webpack.svg" height=100>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=100>
 </div>
 
 # node-template
