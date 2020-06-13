@@ -9,6 +9,7 @@
     }
   },
   "globals": {
+    "chrome": true,
     "document": true
   },
   "env": {
